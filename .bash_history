@@ -25,3 +25,15 @@ docker ps
 sudo su
 ps
 sudo su
+docker ps
+sudo su
+exit
+docker ps
+sudo docker ps
+docker stop 38a958853b96
+sudo docker stop 38a958853b96
+sudo docker rm  38a958853b96
+docker ps
+sudp su
+docker ps
+sudo su
